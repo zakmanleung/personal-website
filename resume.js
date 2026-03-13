@@ -15,7 +15,7 @@ const RESUME_DATA = {
       third: `Previously, I worked as a Senior Data Analyst & MAM Product Manager at JCDecaux Group, and as a Manager of Data Department at Esquel Group. I have extensive experience in leading cross-functional teams and translating business questions into model-driven research.`,
     },
     contact: {
-      email: "liangzewenlzw@foxmail.com",
+      email: "zewenliang@arizona.edu",
       tel: "+86 15616261189",
       social: [
         {
