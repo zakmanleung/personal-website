@@ -11,7 +11,7 @@ const RESUME_DATA = {
     about: `PhD Student in Computer Science <a href="https://www.arizona.edu/" class="underline hover:text-accent-foreground" >@University of Arizona</a>.`,
     summary: {
       first: `I am a PhD student in Computer Science at the University of Arizona. I completed my Master of Science in Computer Science at the University of Bristol with Distinction, and my Bachelor of Engineering in Materials Science and Engineering (with a minor in Japanese) at Central South University.`,
-      second: `My research focuses on <strong>Privacy and Security</strong>, with a specific emphasis on <strong>AI-enhanced privacy attacks</strong> and <strong>privacy-preserving protection mechanisms</strong>. I study how modern AI systems can expose sensitive information through inference, data leakage, and adversarial exploitation, and how to design robust defenses that preserve utility while reducing privacy risk in real-world applications.`,
+      second: `My research focuses on <strong>Usability and Security</strong>, with a specific emphasis on <strong>AI-enhanced privacy attacks</strong> and <strong>privacy-preserving protection mechanisms</strong>. I study how modern AI systems can expose sensitive information through inference, data leakage, and adversarial exploitation, and how to design robust defenses that preserve utility while reducing privacy risk in real-world applications.`,
       third: `Previously, I worked as a Senior Data Analyst & MAM Product Manager at JCDecaux Group, and as a Manager of Data Department at Esquel Group. I have extensive experience in leading cross-functional teams and translating business questions into model-driven research.`,
     },
     contact: {
